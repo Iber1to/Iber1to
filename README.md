@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @Iber1to
-- 🎠 I’m a cowboy coder
-- 👀 I’m interested in PowerShell , Python, Pascal , Pearl , PostScript or any other language beginning with P
-- 🌱 I’m currently learning Pythin
-- 💞️ I’m trying to give back to the community what my skills can give.
+- 😈 I’m BOFTH by choice
+- 🎠 I’m a cowboy coder of necessity
+- 👀 I’m interested in PowerShell , Python, Pascal , Pearl , PostScript or any other language beginning with "P"
+- 🌱 I’m currently learning Python
+- 💞️ I’m trying to give back to the community what my skills can give
 
-Code of Conduct:
+
+
+
+
+![Cowboy-Tester](https://user-images.githubusercontent.com/55259054/188131508-cbfcce56-0344-46b0-8008-90ee47655c8e.jpg)
 
 
 
